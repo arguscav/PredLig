@@ -1,0 +1,7 @@
+Inicio da operacao
+2016-06-19 19:05:58.688000
+{'ts02': 3819, 'dts05': 3817, 'pa': 899, 'dts02': 3794, 'cn': 3728, 'aas': 3849, 'ts08': 3791, 'dts08': 3809, 'ts05': 3779, 'jc': 3687}
+Authors	Articles	Collaborations	Authors	Eold	Enew
+25280	22473		363512		6197	52056	37362
+Fim da Operacao
+2016-06-19 22:21:58.185000

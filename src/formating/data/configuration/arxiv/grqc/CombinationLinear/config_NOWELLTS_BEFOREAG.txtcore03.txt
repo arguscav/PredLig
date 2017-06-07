@@ -1,0 +1,4 @@
+Inicio da operacao
+2016-07-14 22:04:30.102000
+Fim da Operacao
+2016-07-14 22:04:49.159000

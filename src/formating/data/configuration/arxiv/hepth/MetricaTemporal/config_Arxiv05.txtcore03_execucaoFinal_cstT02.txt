@@ -1,0 +1,16 @@
+Inicio da operacao
+2016-09-30 14:13:54.941000
+ TS01 = 81
+ TS02 = 82
+ TS03 = 83
+TS04 = 83
+ TS05 = 87
+ TS06 = 87
+ TS07 = 85
+TS08 = 87
+ TS09 = 88
+
+Authors	Articles	Collaborations	Authors	Eold	Enew
+9098	13367		27970		1893	2639	1293
+Fim da Operacao
+2016-09-30 14:16:29.304000

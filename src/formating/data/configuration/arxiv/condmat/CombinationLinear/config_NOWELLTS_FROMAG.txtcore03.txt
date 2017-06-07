@@ -1,0 +1,7 @@
+Inicio da operacao
+2016-07-15 22:38:16.533000
+{'sucess': 94}
+Authors	Articles	Collaborations	Authors	Eold	Enew
+5469	6700		19878		1253	1899	1150
+Fim da Operacao
+2016-07-15 22:39:41.929000

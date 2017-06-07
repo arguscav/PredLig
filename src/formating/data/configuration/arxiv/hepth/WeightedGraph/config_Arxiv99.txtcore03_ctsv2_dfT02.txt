@@ -1,0 +1,7 @@
+Inicio da operacao
+2016-09-11 09:33:14.457000
+{'cnWTS08': 64, 'cnWTS02': 60, 'cnWTS05': 61, 'aaWTS02': 60, 'aaWTS05': 60, 'aaWTS08': 63}
+Authors	Articles	Collaborations	Authors	Eold	Enew
+6963	9496		17684		1192	1289	767
+Fim da Operacao
+2016-09-11 09:35:09.139000

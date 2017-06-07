@@ -1,0 +1,9 @@
+The config.txt file is a configuration file to input some parameters to cma_strategy.py.
+
+config.txt is in the form:
+sigma,lambda_,top_n,,ngen
+
+sigma:The initial standard deviation of the distribution.
+lambda_:Number of children to produce at each generation, N is the individual’s size (integer).
+top_n:number of links to be predicted.
+ngen:number of generations that the GA will run.

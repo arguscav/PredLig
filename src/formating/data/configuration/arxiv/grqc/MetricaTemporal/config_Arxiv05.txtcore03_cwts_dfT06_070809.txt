@@ -1,0 +1,7 @@
+Inicio da operacao
+2016-10-13 08:32:56.444110
+{'cnWTS08': 28, 'cnWTS02': 33, 'cnWTS05': 31, 'aaWTS02': 35, 'aaWTS05': 36, 'aaWTS08': 30}
+Authors	Articles	Collaborations	Authors	Eold	Enew
+5114	6227		18136		812	1069	463
+Fim da Operacao
+2016-10-13 08:34:19.113415

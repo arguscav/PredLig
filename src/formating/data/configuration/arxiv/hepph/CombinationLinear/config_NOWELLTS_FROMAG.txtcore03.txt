@@ -1,0 +1,7 @@
+Inicio da operacao
+2016-07-15 22:30:37.098000
+{'sucess': 184}
+Authors	Articles	Collaborations	Authors	Eold	Enew
+5414	10254		47800		1790	6654	3294
+Fim da Operacao
+2016-07-15 22:33:45.823000

@@ -1,0 +1,7 @@
+Inicio da operacao
+2016-07-15 22:30:22.401000
+{'sucess': 31}
+Authors	Articles	Collaborations	Authors	Eold	Enew
+2122	3287		5722		486	519	400
+Fim da Operacao
+2016-07-15 22:30:37.056000

@@ -1,0 +1,16 @@
+Inicio da operacao
+2016-10-01 08:20:35.132000
+
+29
+33
+33
+35
+35
+35
+34
+36
+37
+Authors	Articles	Collaborations	Authors	Eold	Enew
+5114	6227		18136		812	1069	463
+Fim da Operacao
+2016-10-01 08:21:12.537000

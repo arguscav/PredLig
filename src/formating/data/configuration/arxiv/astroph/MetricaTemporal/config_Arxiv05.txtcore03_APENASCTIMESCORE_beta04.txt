@@ -1,0 +1,16 @@
+Inicio da operacao
+2016-10-02 11:29:00.211000
+
+3829
+3821
+3819
+3820
+3817
+3809
+3804
+3797
+3794
+Authors	Articles	Collaborations	Authors	Eold	Enew
+25280	22473		363512		6197	52056	37362
+Fim da Operacao
+2016-10-02 19:25:28.359000

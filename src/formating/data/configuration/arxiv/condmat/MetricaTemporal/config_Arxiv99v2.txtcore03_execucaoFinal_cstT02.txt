@@ -1,0 +1,16 @@
+Inicio da operacao
+2016-09-30 14:12:40.441000
+ TS01 = 56
+ TS02 = 56
+ TS03 = 57
+TS04 = 56
+ TS05 = 55
+ TS06 = 54
+ TS07 = 55
+TS08 = 54
+ TS09 = 53
+
+Authors	Articles	Collaborations	Authors	Eold	Enew
+7161	6698		25042		1144	1370	723
+Fim da Operacao
+2016-09-30 14:13:54.296000
